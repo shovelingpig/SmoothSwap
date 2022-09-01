@@ -1,6 +1,3 @@
-### Metric 
-  - Verification score 평균
-
 ### SmoothSwap 
 
 - Train
