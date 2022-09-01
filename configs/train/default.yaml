@@ -1,0 +1,11 @@
+isTrain: False
+end_epoch: 1000 # training epoch size
+batch_size: 512
+optimizer: 'adam'
+weight_decay: 0.0005
+momentum: 0.9
+lr: 0.001
+lr_step: 10     # period of learning rate decay
+log_dir: "./logs"
+checkpoint_dir: "./checkpoints" 
+device: 'cpu'

@@ -1,0 +1,9 @@
+authur:
+  name: conor.k
+  version: 0.0.1
+
+defaults:  
+  - train: default
+  - id_emb: default 
+  - generator: default
+  - discriminator: default

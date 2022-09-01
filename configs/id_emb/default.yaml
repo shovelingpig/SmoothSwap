@@ -1,0 +1,5 @@
+image_size: 224
+train_embedder: False
+network: 'resnet50'  # specify network
+emb_size: 512   # embedding size
+checkpoint_path: ""
